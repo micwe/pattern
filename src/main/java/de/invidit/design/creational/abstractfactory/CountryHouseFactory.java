@@ -1,8 +1,6 @@
 package de.invidit.design.creational.abstractfactory;
 
-import de.invidit.design.creational.abstractfactory.component.WoodenDoor;
-import de.invidit.design.creational.abstractfactory.component.WoodenRoof;
-import de.invidit.design.creational.abstractfactory.component.WoodenWall;
+import de.invidit.design.creational.abstractfactory.component.*;
 
 /**
  * Created by mwe on 19.02.2016.
